@@ -1,0 +1,4 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+forecast_weather.csv filter=lfs diff=lfs merge=lfs -text
+historical_weather.csv filter=lfs diff=lfs merge=lfs -text
+train.csv filter=lfs diff=lfs merge=lfs -text
